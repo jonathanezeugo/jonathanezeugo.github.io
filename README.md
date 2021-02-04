@@ -1,2 +1,2 @@
 # jonathanezeugo.github.io
-html_github_handle
+Welcome! Check out my bio: 
